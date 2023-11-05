@@ -1,6 +1,6 @@
 ## Parser
 
-The most important class wich have the logic is  `ProductServiceImpl`, which is part of the service layer in the Gerimedica Parser Service application, responsible for handling business logic and data transactions with the `ProductRepository`. This class offers functionality to upload CSV files and perform CRUD operations on product data.
+The most important class wich have the logic is  `ProductServiceImpl`, which is part of the service layer in the Parser Service application, responsible for handling business logic and data transactions with the `ProductRepository`. This class offers functionality to upload CSV files and perform CRUD operations on product data.
 
 ### Key Responsibilities
 

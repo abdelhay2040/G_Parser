@@ -1,4 +1,4 @@
-package com.gerimedica.parser.model;
+package com.assignment.parser.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

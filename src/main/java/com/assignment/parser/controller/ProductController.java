@@ -1,7 +1,7 @@
-package com.gerimedica.parser.controller;
+package com.assignment.parser.controller;
 
-import com.gerimedica.parser.model.Product;
-import com.gerimedica.parser.service.ProductService;
+import com.assignment.parser.model.Product;
+import com.assignment.parser.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

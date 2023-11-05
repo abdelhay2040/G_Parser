@@ -1,7 +1,7 @@
-package com.gerimedica.parser.service;
+package com.assignment.parser.service;
 
-import com.gerimedica.parser.model.Product;
-import com.gerimedica.parser.repository.ProductRepository;
+import com.assignment.parser.model.Product;
+import com.assignment.parser.repository.ProductRepository;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;

@@ -1,6 +1,6 @@
-package com.gerimedica.parser.controller;
+package com.assignment.parser.controller;
 
-import com.gerimedica.parser.exception.ResourceNotFoundException;
+import com.assignment.parser.exception.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

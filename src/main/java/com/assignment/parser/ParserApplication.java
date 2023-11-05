@@ -1,4 +1,4 @@
-package com.gerimedica.parser;
+package com.assignment.parser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

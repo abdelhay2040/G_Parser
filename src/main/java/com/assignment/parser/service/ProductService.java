@@ -1,6 +1,6 @@
-package com.gerimedica.parser.service;
+package com.assignment.parser.service;
 
-import com.gerimedica.parser.model.Product;
+import com.assignment.parser.model.Product;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
